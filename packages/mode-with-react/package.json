@@ -1,0 +1,19 @@
+{
+  "name": "mode-with-react",
+  "version": "1.0.3",
+  "description": "a test",
+  "main": "index.js",
+  "publishConfig": {
+    "tag": "restricted",
+    "registry": "https://registry.npmjs.org/",
+    "access": "restricted"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testkey"
+  ],
+  "author": "jinrd",
+  "license": "ISC"
+}
